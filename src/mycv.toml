@@ -1,0 +1,29 @@
+[basics]
+name="Błażej Niewiadomski"
+label="Programmer"
+image="path/to/photo/"
+email="blaz.nie@gmail.com"
+phone="799 866 422"
+url="implicit-image.github.io"
+summary=""
+
+    [basics.location]
+    address=""
+    postalCode=""
+    city="Olsztyn"
+    countryCode="PL"
+    region="Warmian-Masurian Voivodeship"
+
+    [[basics.profiles]]
+    network="Github"
+    username="implicit-image"
+    url="https:///github.com/implicit-image"
+
+[[skills]]
+
+
+[[languages]]
+
+[[interests]]
+
+[[projects]]
