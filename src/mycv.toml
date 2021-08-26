@@ -1,7 +1,7 @@
 [basics]
 name="Błażej Niewiadomski"
 label="Programmer"
-image="path/to/photo/"
+image="../resources/photo.jpg"
 email="blaz.nie@gmail.com"
 phone="799 866 422"
 url="implicit-image.github.io"
