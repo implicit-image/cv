@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Błażej Niewiadomski",
+    "email": "niewiadomski.blaz3j@gmail.com",
+    "phone": "+48 799 866 422",
+    "url": "https://implicit-image.github.io",
+    "picture": "https://raw.githubusercontent.com/implicit-image/cv/aceb5ea726d7eb5157c1f0f010d5f7f7998219b0/resources/photo.jpg",
+    "location": {
+      "address": "Iwaszkiewicza 39/3",
+      "postalCode": "10-089",
+      "city": "Olsztyn",
+      "region": "warmińsko-mazurskie"
+    },
+    "summary": ""
+  },
+  "work": [
+    {
+      "company": "OZGRAF S.A.",
+      "position": "Magazynier",
+      "startDate": "2019-08",
+      "endDate": "2019-11"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UAM",
+      "studyType": "Studia licencjackie z informatyki (niedokończone)",
+      "startDate": "2018",
+      "endDate": "2019"
+    },
+    {
+      "institution": "LO nr XI w Olsztynie",
+      "studyType": "Liceum ogólnokształcące",
+      "startDate": "2015",
+      "endDate": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Logiczne myślenie",
+      "keywords": []
+    },
+    {
+      "name": "Punktualność"
+    },
+    {
+      "name": "Wyobraźnia przestrzenna"
+    },
+    {
+      "name": "Umiejętność pracy zespołowej"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Angielski",
+      "fluency": "Płynny"
+    },
+    {
+      "language": "Polski",
+      "fluency": "Ojczysty"
+    }],
+  "interests": [
+    {
+      "name": "Programowanie",
+      "keywords": [
+        "Haskell"
+      ]
+    }
+  ],
+  "license": {
+    "text": "llorem ipsume doloreilorem ipsume doloreilorem ipsume doloreilorem ipsume doloreilorem ipsume doloreilorem ipsume doloreilorem ipsume doloreilorem ipsume doloreilorem ipsume doloreiorem ipsume dolorei"
+  }
+}

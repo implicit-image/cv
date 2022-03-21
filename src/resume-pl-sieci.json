@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Błażej Niewiadomski",
+    "email": "niewiadomski.blaz3j@gmail.com",
+    "phone": "+48 799 866 422",
+    "website": "https://implicit-image.github.io",
+    "location": {
+      "address": "Iwaszkiewicza 39/3",
+      "postalCode": "10-089",
+      "city": "Olsztyn",
+      "countryCode": "PL",
+      "region": "woj. warmińsko-mazurskie"
+    },
+    "summary": "Jestem początkującym administratorem systemów operacyjnych i sieci szukającym okazji do rozwoju swoich umiejętności."
+  },
+  "education": [
+    {
+      "institution": "WM ZDZ",
+      "url": "https://wmzdz.pl/",
+      "studyType": "Kursy zawodowe",
+      "startDate": "2019-11",
+      "endDate": "2020-06",
+      "courses": [
+        "EE.08 - Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci",
+        "EE.09 - Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych"
+      ]
+    },
+    {
+      "institution": "UAM",
+      "studyType": "Informatyka w języku angielskim",
+      "startDate": "2018-10",
+      "endDate": "2019-10",
+      "summary": "Nie dokończyłem studiów w związku ze zmianą nastawienia do informatyki. Zdecydowałem sie na formę edukacji bardziej skupioną na przygotowaniu do praktycznego wykorzystania wiedzy."
+    }
+  ],
+  "work": [
+    {
+      "company": "Zespół Szkół Ekonomiczno-Handlowych w Olsztynie",
+      "location": "Olsztyn ",
+      "position": "Staż",
+      "startDate": "2019-12-01",
+      "endDate": "2020-03-15",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Umiejętność swobodnego czytania dokumentacji technicznej po polsku i po angielsku"
+    },
+    {
+      "name": "Umiejętność pracy zespołowej"
+    },
+    {
+      "skillCategory": "Zarządzanie systemami",
+      "skills": [
+        {
+          "name": "Windows, Windows Server, Active Directory"
+        },
+        {
+          "name": "Linux: Debian/Ubuntu/Arch"
+        },
+        {
+          "name": "Instalacja i konfiguracja serwerów",
+          "subskills": [
+            "WWW - Apache, nginx, ISS",
+            "DNS, DHCP"
+          ]
+        }
+      ]
+    },
+    {
+      "skillCategory": "Sieci",
+      "skills": [
+        {
+          "name": "Znajomość technik/topologii/protokołów sieciowych",
+          "subskills": [
+            "protokół TCP/IP",
+            "model ISO/OSI",
+            "adresacja IPV4/IPv6",
+            "VLAN, WLAN, LAN, SSH"
+          ]
+        },
+        {
+          "name": "Konfiguracja urządzeń: CISCO, D-LINK, NETGEAR"
+        }
+      ]
+    },
+    {
+      "skillCategory": "Umiejętności dodatkowe",
+      "skills": [
+        {
+          "name": "Języki programowania: bash, javascript, haskell"
+        },
+        {
+          "name": "Narzędzia: git"
+        },
+        {
+          "name": "Zarządzanie bazami PostGreSQL: cli, PHPMyAdmin"
+        },
+        {
+          "name": "Zasady budowy aplikacji webowych"
+        },
+        {
+          "name": "Znajomośc pakietu Office na poziomie ECDL"
+        }
+      ]
+    }
+    ],
+  "predispositions": [
+    "Umiejętność analitycznego myślenia",
+    "Nastawienie na rozwój w branży nowych technologii",
+    "Dobra organizacja, dokładność i spostrzegawczość"
+  ],
+  "languages": [
+    {
+      "language": "Angielski",
+      "fluency": "B2 (wg testu poziomującego)"
+    },
+    {
+      "language": "Polski",
+      "fluency": "Ojczysty"
+    }],
+  "interests": [
+    {
+      "name": "Programowanie funkcyjne",
+      "keywords": [
+        "Haskell"
+      ]
+    },
+    {
+      "name": "Filozofia",
+      "keywords": [
+        "Spinoza",
+        "Deleuze"
+      ]
+    }
+  ],
+  "license": {
+    "text": "Wyrażam zgodę na przetwarzanie moich danych osobowych przez WAMASOFT Sp. z o.o. dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO)."
+  }
+}

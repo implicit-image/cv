@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+
+function help {
+    echo "usage export-cv resume.json-file <theme name> <language> <outdir>"
+    exit 1
+}
+
+src="$PWD/$1"
+theme="$2"
+lang="$3"
+outdir="$PWD/out"
+
+
+thempath="$PWD/node_modules/jsonresume-theme-"
+
+#TODO rewrite later, add some theme management
+case $theme in
+    "elegant" | "eleganter")
+        themedir="${themepath}eleganter"
+        ;;
+    "even")
+        themedir="${themepath}even"
+        ;;
+    *)
+        echo "Theme not found"
+        exit 1
+        ;;
+esac
+
+if [[ ! -d $themedir ]]; then # if themedir doesnt exists
+    echo "Theme not found"
+    exit 1
+fi
+
+
+if [[ -f "$src" &&  ]]; then
+    if [[ -f "$outdir/current/resume-$lang.pdf" ]]; then
+        mv -uf "$outdir/current/resume-$lang.pdf" "$outdir/old/resume-$lang-$(date).pdf"
+    fi
+    #TODO: if there are more than 10 backups, remove the oldest one
+    resume export -r "$out" -f pdf "$outdir/current/resume-$lang.pdf" -t $themedir
+    rm "$out"
+else
+    echo "resume.json not found"
+    exit 1
+fi

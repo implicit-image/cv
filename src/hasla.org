@@ -1,0 +1,47 @@
+#+TITLE: Hasla
+
+
+
+- wykształcenie kierunkowe - kwalifikacje zawodowe EE.08, EE.09
+
+* Umiejętności
+** ZARZĄDZANIE SYSTEMAMI
+- Windows i Windows server
+
+- Active Directory
+
+- Linux Debian/Ubuntu/Arch
+
+- instalacja i konfiguracja serwerów:
+  + WWW – Apache, nginx, IIS
+  + DNS, DHCP
+
+** SIECI
+- znajomość technik/topologii/protokołów sieciowych:
+  + protokół TCP/IP
+  + modelu ISO/OSI
+  + adresacja IPv4/IPv6
+  + VLAN, WLAN, LAN, SSH
+
+- konfiguracja urządzeń sieciowych: CISCO, D-LINK, NETGEAR
+
+- Bezpieczeństwo IT - znajomość podstawowych zagadnień
+
+** Predyspozycje
+
+- umiejętność analitycznego myślenia oraz szybkiego identyfikowania i rozwiązywania problemów
+
+- Nastawienie na rozwój w branży nowych technologii
+
+- Dobra organizacja, skrupulatność i dokładność, spostrzegawczość
+
+** Umiejętności dodatkowe
+- języki programowania: bash, javascript, haskell
+- narzędzia: git
+- zarządzanie bazami PostGreSQL: CLI, PHPMyAdmin
+- zasady budowy aplikacji webowych
+- znajomość pakietu Office na poziomie ECDL
+- znajomość języka angielskiego na poziomie B2 umożliwiające zrozumienie dokumentacji technicznej i swobodnej komunikacji
+
+* TODO
+- kopie zapasowa

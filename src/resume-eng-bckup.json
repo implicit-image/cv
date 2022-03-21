@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Błażej Niewiaddomski",
+    "label": "Programmer",
+    "image": "./photo.jpg",
+    "email": "blaz.nie@protonmail.com",
+    "phone": "+48 799 866 422",
+    "url": "https://implicit-image.github.io",
+    "summary": "TODO summary",
+    "location": {
+      "address": "Iwaszkiewicza 39/3",
+      "postalCode": "10-089 Olsztyn",
+      "city": "Olsztyn",
+      "countryCode": "PL",
+      "region": "Warmian-Masurian Voivodeship"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "implicit-image",
+        "url": "https://github.com/implicit-image"
+      },
+      {
+        "network": "linkedin",
+        "username": "Błażej Niewiadomski",
+        "url": "https://www.linkedin.com/in/blażej-niewiadomski-820612219/"
+      }
+    ]
+  },
+  "education": [{
+    "institution": "Udemy.com TODO ",
+    "url": "https://institution.com/",
+    "area": "Software Development",
+    "studyType": "",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "",
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "TODO categorize English language level"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Philosophy",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    },
+    {
+      "name": "Functional Programming",
+      "keywords": [
+        "Haskell"
+      ]
+    }
+  ],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "description": "Description…",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "keywords": [
+      "HTML"
+    ],
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "url": "https://project.com/",
+    "roles": [
+      "Team Lead"
+    ],
+    "entity": "Entity",
+    "type": "application"
+  }]
+}

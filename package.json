@@ -1,8 +1,17 @@
 {
   "dependencies": {
-    "@nij4t/jsonresume-theme-flat": "^0.4.0",
-    "jsonresume-theme-paper": "^0.5.0",
+    "jsonresume-theme-caffeine": "^1.2.3",
+    "jsonresume-theme-class": "^0.1.2",
+    "jsonresume-theme-elegant": "^1.7.11",
+    "jsonresume-theme-eleganter": "^1.0.3",
+    "jsonresume-theme-onepage": "^0.0.3",
     "jsonresume-theme-paper-v2": "^0.0.2",
-    "jsonresume-theme-spartan": "^0.3.0"
+    "jsonresume-theme-short": "^0.1.7",
+    "jsonresume-theme-spartan": "^0.3.0",
+    "jsonresume-theme-stackoverflow": "^1.4.0"
+  },
+  "scripts": {
+    "build-eng": "./export-cv ./src/resume-eng.json elegant eng",
+    "build-pl": "./export-cv ./src/resume-pl.json elegant pl"
   }
 }

@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Błażej Niewiadomski",
+    "email": "niewiadomski.blaz3j@gmail.com",
+    "phone": "+48 799 866 422",
+    "website": "https://implicit-image.github.io",
+    "location": {
+      "address": "Iwaszkiewicza 39/3",
+      "postalCode": "10-089",
+      "city": "Olsztyn",
+      "countryCode": "PL",
+      "region": "woj. warmińsko-mazurskie"
+    },
+    "summary": "Jestem początkującym programistą dążącym do rozwoju swoich umiejętności w dziedzinie programowania aplikacji i stron internetowych."
+  },
+  "education": [
+    {
+      "institution": "WM ZDZ",
+      "url": "https://wmzdz.pl/",
+      "studyType": "Kursy zawodowe",
+      "startDate": "2019-11",
+      "endDate": "2020-06",
+      "courses": [
+        "EE.08 - Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci",
+        "EE.09 - Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych"
+      ]
+    },
+    {
+      "institution": "UAM",
+      "studyType": "Informatyka w języku angielskim",
+      "startDate": "2018-10",
+      "endDate": "2019-10",
+      "summary": "Nie dokończyłem studiów w związku ze zmianą nastawienia do programowania. Zdecydowałem sie na formę edukacji bardziej skupioną na przygotowaniu do praktycznego wykorzystania wiedzy."
+    }
+  ],
+  "work": [
+    {
+      "name": "Firma",
+      "location": "Olsztyn ",
+      "description": "TODO",
+      "position": "Stażysta",
+      "url": "TODO",
+      "startDate": "2020-06",
+      "endDate": "2020-07",
+      "summary": "",
+      "highlights": [
+        "Kontrola i dokumentacja szkolnej infrastruktury sieciowej"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Umiejętnosć pracy zespołowej"
+    },
+    {
+      "name": " Umiejętność swobodnego czytania dokumentacji technicznej po polsku i po angielsku"
+    },
+    {
+      "name": "Znajomość: ",
+      "subskills": [
+        "git (interfejsy cli, web, magit)",
+        "Axios.js"
+      ]
+    },
+    {
+      "name": "Bazy danych",
+      "keywords": [
+        {
+          "name": "SQL",
+          "level": "beginner"
+        },
+        {
+          "name": "mongodb Atlas",
+          "level": "intermediate"
+        }
+      ]
+    },
+    {
+      "name": "Linux",
+      "keywords": [
+
+        {
+          "name": "bash",
+          "level": "intermediate"
+        },
+        {
+          "name": "Linux terminal",
+          "level": "intermediate"
+        }
+      ]
+    },
+    {
+      "name": "Programowanie stron i aplikacji internetowych",
+      "keywords": [
+        {
+          "name": "HTML, CSS, JS",
+          "level": "intermediate"
+        },
+        {
+          "name": "React.js",
+          "level": "intermediate"
+        },
+        {
+          "name": "Express.js",
+          "desc": "Znajomość zasad tworzenia REST API",
+          "level": "advanced"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Angielski",
+      "fluency": "B2 (wg testu poziomującego)"
+    },
+    {
+      "language": "Polski",
+      "fluency": "Ojczysty"
+    }],
+  "interests": [
+    {
+      "name": "Filozofia",
+      "keywords": [
+        "Spinoza",
+        "Deleuze"
+      ]
+    },
+    {
+      "name": "Programowanie funkcyjne",
+      "keywords": [
+        "Haskell"
+      ]
+    }
+  ],
+  "license": {
+    "text": "Wyrażam zgodę na przetwarzanie moich danych osobowych przez WAMASOFT Sp. z o.o. dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO)."
+  }
+}

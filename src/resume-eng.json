@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Błażej Niewiadomski",
+    "label": "Programmer",
+    "email": "blaz.nie@protonmail.com",
+    "phone": "+48 799 866 422",
+    "website": "https://implicit-image.github.io",
+    "summary": "Im an aspiring programmer looking to enter the industry. ",
+    "location": {
+      "address": "Iwaszkiewicza 39/3",
+      "postalCode": "10-089 Olsztyn",
+      "city": "Olsztyn",
+      "countryCode": "PL",
+      "region": "Warmian-Masurian Voivodeship"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "implicit-image",
+        "url": "https://github.com/implicit-image"
+      },
+      {
+        "network": "linkedin",
+        "username": "Błażej Niewiadomski",
+        "url": "https://www.linkedin.com/in/blażej-niewiadomski-820612219/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Udemy.com",
+      "url": "https://Udemy.com/",
+      "area": "Software Development",
+      "studyType": "Online course",
+      "startDate": "2021-06-20",
+      "endDate": "2022-07-20",
+      "score": "4.0",
+      "courses": [
+        "The Complete Web Developer in 2022: Zero to Mastery"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Beginner",
+      "keywords": [
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Polish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Philosophy",
+      "keywords": [
+        "Spinoza"
+      ]
+    },
+    {
+      "name": "Functional Programming",
+      "keywords": [
+        "Haskell"
+      ]
+    }
+  ]
+}
